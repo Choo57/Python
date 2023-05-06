@@ -5,7 +5,7 @@ CoinMarketcap Scraper
 Cagan Cerkez, 2023
      
 <h3>DESCRIPTION</h3>
-Save a screenshot of CoinMarketcap.com's first cryptos on the landing page, and save the first 100 crypto prices to a csv file.
+Save a screenshot of CoinMarketcap.com's first cryptos on the landing page, and save the first 100 crypto prices to a csv file.<br/>
 
 Demo: 
 <strong>https://www.youtube.com/watch?v=L4j2TJElanc</strong>
